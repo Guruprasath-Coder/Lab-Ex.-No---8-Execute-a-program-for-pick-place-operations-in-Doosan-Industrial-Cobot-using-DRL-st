@@ -41,9 +41,9 @@ Controllers: Controllers synchronize and control the movement of different actua
 
 ## Program 
 ```
-// Roll no:212222230027
+// Roll no:212222080019
 
-//Name: Dario G
+//Name: Guruprasath V
 MoveJ ................
 ```
 ![pro1](https://github.com/Mukilkumar-SEC/Lab-Ex.-No---8-Execute-a-program-for-pick-place-operations-in-Doosan-Industrial-Cobot-using-DRL-st/assets/119559663/2552d33d-7f32-4df0-8090-b959d8b04d10)
